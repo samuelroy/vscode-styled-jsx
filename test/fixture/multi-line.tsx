@@ -3,9 +3,8 @@ const Header = () => (
     <h1>Header</h1>
     <style jsx>
       {`
-        h1 {
-          color: red;
-        }
+        body
+          font font-size Arial, sans-serif
       `}
     </style>
   </div>
