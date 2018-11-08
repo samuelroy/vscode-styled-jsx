@@ -2,7 +2,7 @@
 
 Stylus syntax highlighting for [styled-jsx](https://github.com/zeit/styled-jsx) in VS Code.
 
-<img src="https://github.com/samuelroy/vscode-styled-jsx-stylus/blob/master/attachments/a7189b27.png" width="550">
+<img src="https://github.com/samuelroy/vscode-styled-jsx-stylus/raw/master/attachments/a7189b27.png" width="550">
 
 This project is a fork from <https://github.com/iFwu/vscode-styled-jsx> to support stylus syntax in styled-jsx.
 
