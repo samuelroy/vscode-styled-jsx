@@ -2,7 +2,7 @@
 
 Stylus syntax highlighting for [styled-jsx](https://github.com/zeit/styled-jsx) in VS Code.
 
-![code.png](attachments/a7189b27.png =50%x)
+![code.png](attachments/a7189b27.png)
 
 This project is a fork from <https://github.com/iFwu/vscode-styled-jsx> to support stylus syntax in styled-jsx.
 
