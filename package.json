@@ -1,15 +1,15 @@
 {
-    "name": "vscode-styled-jsx",
-    "displayName": "vscode-styled-jsx",
-    "description": "Syntax highlighting for styled-jsx",
+    "name": "vscode-styled-jsx-stylus",
+    "displayName": "vscode-styled-jsx-stylus",
+    "description": "Stylus syntax highlighting for styled-jsx",
     "version": "1.0.0",
-    "publisher": "blanu",
+    "publisher": "samuelroy",
     "engines": {
         "vscode": "^1.26.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/xekri/vscode-styled-jsx"
+        "url": "https://github.com/samuelroy/vscode-styled-jsx-stylus"
     },
     "categories": [
         "Programming Languages"
@@ -19,7 +19,7 @@
             {
                 "id": "source.stylus.jsx.styled",
                 "aliases": [
-                    "CSS (Styled JSX)"
+                    "Stylus (Styled JSX)"
                 ],
                 "configuration": "./language-configuration.json"
             }
