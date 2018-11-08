@@ -1,14 +1,10 @@
-# vscode-styled-jsx
+# vscode-styled-jsx-stylus
 
-Syntax highlighting for [styled-jsx](https://github.com/zeit/styled-jsx)
+Stylus syntax highlighting for [styled-jsx](https://github.com/zeit/styled-jsx) in VS Code.
 
-<img src="https://raw.githubusercontent.com/iFwu/vscode-styled-jsx/master/code.png" width="550">
+![code.png](attachments/a7189b27.png =50%x)
 
-Syntaxes files are inspired by [vscode-styled-components](https://github.com/styled-components/vscode-styled-components.git)
-Uses the CSS grammar from the Atom [language-babel](https://github.com/gandm/language-babel).
+This project is a fork from <https://github.com/iFwu/vscode-styled-jsx> to support stylus syntax in styled-jsx.
 
-## Plan
+It uses the CSS grammar from [matthojo/language-stylus: Syntax highlighting and snippets to Stylus files in Atom.](https://github.com/matthojo/language-stylus)
 
-* Add support for css attributes autocomplete
-* Add support for classNames autocomplete
-* fix too many interpolation includes in partterns
