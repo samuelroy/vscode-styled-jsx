@@ -74,7 +74,7 @@
               "name": "punctuation.definition.block.js"
             }
           },
-          "patterns": [{ "include": "source.css.jsx.styled" }]
+          "patterns": [{ "include": "source.stylus.jsx.styled" }]
         }
       ]
     },
@@ -103,7 +103,7 @@
 			},
 			"patterns": [
 				{
-					"include": "source.css.jsx.styled"
+					"include": "source.stylus.jsx.styled"
 				}
 			]
 		}
