@@ -23,9 +23,6 @@
 			"include": "#selector"
 		},
 		{
-			"include": "#declaration"
-		},
-		{
 			"captures": {
 				"1": {
 					"name": "punctuation.section.property-list.begin.css"
